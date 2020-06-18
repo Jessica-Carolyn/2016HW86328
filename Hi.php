@@ -6,6 +6,7 @@
 
 <?php
 echo "Hi World!";
+echo "Hi all"
 ?>
 
 </body>
