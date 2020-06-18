@@ -6,7 +6,6 @@
 
 <?php
 echo "Hi World!";
-echo "Hi new"
 ?>
 
 </body>
